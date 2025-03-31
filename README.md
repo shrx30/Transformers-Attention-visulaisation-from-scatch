@@ -1,0 +1,1 @@
+Transformer attention visualization helps in understanding how attention mechanisms focus on different parts of an input sequence during processing. Common visualization methods include heatmaps for self-attention matrices, attention rollout for cumulative effects, and attention graphs for token relationships
